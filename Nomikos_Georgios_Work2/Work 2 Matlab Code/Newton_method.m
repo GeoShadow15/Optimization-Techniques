@@ -1,5 +1,5 @@
 %Georgios Nomikos
-%AEM: 9857
+
 %Optimization Techniques | ECE Auth | 2023-24
 %Work 2
 %Newton Method
